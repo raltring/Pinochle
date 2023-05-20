@@ -1,4 +1,4 @@
-package src;
+package src.players;
 
 public interface Playable 
 {

@@ -1,4 +1,4 @@
-import src.GameSetup;
+import src.gameanagement.GameSetup;
 
 /**
  * Write a description of class Pinochle here.

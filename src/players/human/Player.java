@@ -1,5 +1,8 @@
-package src;
+package src.players.human;
 import java.util.Scanner;
+
+import src.players.HandleCards;
+import src.players.Playable;
 
 public class Player extends HandleCards implements Playable
 {

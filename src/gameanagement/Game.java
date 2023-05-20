@@ -1,5 +1,10 @@
-package src;
+package src.gameanagement;
 import java.util.Random;
+
+import src.players.Playable;
+import src.players.ai.Computer;
+import src.players.human.Player;
+
 import java.util.ArrayList;
 /**
  * Write a description of class Game here.

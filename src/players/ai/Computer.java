@@ -1,4 +1,7 @@
-package src;
+package src.players.ai;
+
+import src.players.HandleCards;
+import src.players.Playable;
 
 public class Computer extends HandleCards implements Playable
 {

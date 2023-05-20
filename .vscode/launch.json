@@ -8,14 +8,7 @@
             "type": "java",
             "name": "Run",
             "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "Pinochle",
-            "request": "launch",
-            "mainClass": "Pinochle",
-            "projectName": "Pinochle_46600013"
+            "mainClass": "Pinochle"
         }
     ]
 }

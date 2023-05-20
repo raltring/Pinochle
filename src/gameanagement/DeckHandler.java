@@ -1,4 +1,4 @@
-package src;
+package src.gameanagement;
 import java.util.Random;
 
 public class DeckHandler 

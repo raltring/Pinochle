@@ -1,4 +1,4 @@
-package src;
+package src.players;
 import java.util.ArrayList;
 
 public class HandleCards 

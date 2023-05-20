@@ -1,4 +1,4 @@
-package src;
+package src.assets;
 
 /**
  * Write a description of class Card here.
